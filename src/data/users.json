@@ -1,0 +1,23 @@
+[
+    {
+      "id": "60fbc09516b65b251cdf3ea0",
+      "firstName": "Acevedo",
+      "lastName": "Barnes",
+      "email": "acevedobarnes@noralex.com",
+      "password": "hashedpotatoes"
+    },
+    {
+      "id": "60fbc095bbfce823a97e585d",
+      "firstName": "Diaz",
+      "lastName": "Sullivan",
+      "email": "diazsullivan@noralex.com",
+      "password": "hashedpotatoes"
+    },
+    {
+      "id": "60fbc095648a9fd1b26b4f85",
+      "firstName": "Glenna",
+      "lastName": "Atkins",
+      "email": "glennaatkins@noralex.com",
+      "password": "hashedpotatoes"
+    }
+  ]

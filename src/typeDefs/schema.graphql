@@ -1,0 +1,51 @@
+type Query {
+# fetch all data
+fetchRestaurants: [Restaurant!]!
+fetchPlaces: [Place!]!
+fetchCousines: [Cousine!]!
+fetchUsers: [User!]!
+seedData: String!
+}
+
+type Mutation {
+  login(email: String!, password: String!): AuthPayload!
+  createUser(data: CreateUserInput!): User!
+}
+
+type AuthPayload {
+  user: User
+  userToken: String
+}
+
+type User {
+    id: ID
+    firstName: String
+    lastName: String
+    email: String!
+    password: String!
+}
+type Place {
+    id: ID!
+    name: String!
+    restaurants: [Restaurant!]!
+}
+type Restaurant {
+    id: ID!
+    name: String!
+    placeId: ID!
+    cousines: [Cousine!]!
+    minPrice: Int!
+}
+type Cousine {
+    id: ID!
+    restaurantId: ID!
+    name: String!
+    price: Int!
+}
+
+input CreateUserInput {
+  firstName: String!
+    lastName: String!
+    email: String!
+    password: String!
+}

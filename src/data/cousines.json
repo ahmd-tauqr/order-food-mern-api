@@ -1,0 +1,80 @@
+[
+    {
+        "id": "60fbc2052db5b76b1c3fec0d",
+        "restaurantId": "60fbc38f222abcd90969f219",
+        "name": "starters",
+        "price": 250
+      },
+      {
+        "id": "60fbc2051e15acaf548bfed7",
+        "restaurantId": "60fbc38f222abcd90969f219",
+        "name": "main",
+        "price": 150
+      },
+      {
+        "id": "60fbc205111e08df6554248b",
+        "restaurantId": "60fbc38f32f0a9cb024d4d3b",
+        "name": "desserts",
+        "price": 320
+      },
+      {
+        "id": "60fbc2050d24ea2b1e8df2d1",
+        "restaurantId": "60fbc38f32f0a9cb024d4d3b",
+        "name": "fish",
+        "price": 450
+      },
+      {
+        "id": "60fbc2052db5b76b1c3fec0d",
+        "restaurantId": "60fbc38f32f0a9cb024d4d3b",
+        "name": "starters",
+        "price": 230
+      },
+      {
+        "id": "60fbc2051a96329b488d8981",
+        "restaurantId": "60fbc38fb97cc54edc1139cf",
+        "name": "starters",
+        "price": 530
+      },
+      {
+        "id": "60fbc205d9ba6fe76fcc6bfe",
+        "restaurantId": "60fbc38fb97cc54edc1139cf",
+        "name": "fish",
+        "price": 400
+      },
+      {
+        "id": "60fbc205111e08df6554248b",
+        "restaurantId": "60fbc38fb97cc54edc1139cf",
+        "name": "main",
+        "price": 200
+      },
+      {
+        "id": "60fbc2059609c3fb855bcf1f",
+        "restaurantId": "60fbc38fd9da43f7ea630a82",
+        "name": "veg",
+        "price": 600
+      },
+      {
+        "id": "60fbc205bb14c7aa2f8adc92",
+        "restaurantId": "60fbc38fd9da43f7ea630a82",
+        "name": "main",
+        "price": 340
+      },
+      {
+        "id": "60fbc205111e08df6554248b",
+        "restaurantId": "60fbc38f96384bc03349eb4a",
+        "name": "starters",
+        "price": 220
+      },
+      {
+        "id": "60fbc2050d24ea2b1e8df2d1",
+        "restaurantId": "60fbc38f96384bc03349eb4a",
+        "name": "main",
+        "price": 110
+      },
+      {
+        "id": "60fbc2052db5b76b1c3fec0d",
+        "restaurantId": "60fbc38f96384bc03349eb4a",
+        "name": "fish",
+        "price": 550
+      }
+  ]
